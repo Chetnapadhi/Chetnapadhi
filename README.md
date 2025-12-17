@@ -4,29 +4,37 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&pause=800&center=true&vCenter=true&width=520&lines=Full+Stack+Developer;Flutter+%7C+Web+Applications;Building+Real-World+Systems;Clean+Code+%7C+Scalable+Design" />
 </p>
 
-<img align="right" width="260" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
+<img align="right" alt="coding" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 About Me — Sandbox
 
 ```js
-const aboutMe = {
-  name: "Chetna Padhi",
+const chetna = {
   role: "Full Stack Developer",
-  interests: [
-    "Web & Mobile Applications",
-    "Flutter + Firebase",
+  mindset: "Build → Improve → Scale",
+  focusAreas: [
+    "Web Applications",
+    "Flutter & Firebase Apps",
     "System Design"
   ],
-  experience: [
-    "NGO CMS & Donation Platform",
-    "Smart Attendance System",
-    "Web Development Internship"
+  experience: {
+    internship: "Web Developer (Remote)",
+    projects: [
+      "NGO CMS & Donation Platform",
+      "Smart Attendance System (Flutter + Firebase + BLE)"
+    ],
+    research: "AI-Powered Home Security"
+  },
+  strengths: [
+    "Problem Solving",
+    "Clean UI",
+    "Scalable Backend Thinking"
   ],
-  values: [
-    "Clean Code",
-    "User-Centric Design",
-    "Scalable Solutions"
+  currentlyExploring: [
+    "Advanced Flutter",
+    "Backend Optimization",
+    "AI-assisted Systems"
   ]
 };
